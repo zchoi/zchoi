@@ -1,6 +1,5 @@
 ## Hello, world ! 👋
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zchoi&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93">](https://github.com/zchoi/github-readme-stats)
 
 👻 I'm Zhang Haonan, a PhD student of Center for Future Media at UESTC. 
@@ -14,12 +13,9 @@
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchoi&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93&hide=jupyter_notebook">](https://github.com/anuraghazra/github-readme-stats)
 
 ⌛ **Weekly Development Breakdown** 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ```text
-
-
-
-
 💾 Programming: 
 Pytorch        7 hrs 20 mins   ███████████████████░░░  73.39%
 Python         3 hr 10 mins    ██████░░░░░░░░░░░░░░░░  16.92%
