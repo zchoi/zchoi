@@ -1,17 +1,33 @@
-### Hi there 👋
+## Hello, world ! 👋
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zchoi&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93">](https://github.com/zchoi/github-readme-stats)
 
-<!--
-**zchoi/zchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👻 I'm Zhang Haonan, a PhD student of Center for Future Media at UESTC. 
+- 🦾 Python / C / C++ / Jupyter / Pytorch
+- 🤔 Vision&Language / Multimodal Learning
+- 🌱 Attending courses & doing research at UESTC
+- 🔑 GPG Key : [`E1FB968577635BDF`](https://github.com/zchoi.gpg)
+- 🙋‍♂️ CV : [`Link`]()
+---
+  
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchoi&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93&hide=jupyter_notebook">](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+⌛ **Weekly Development Breakdown** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zchoi?theme=gruvbox)](https://github.com/zchoi/github-readme-stats)
+```text
+
+
+
+
+💾 Programming: 
+Pytorch        7 hrs 20 mins   ███████████████████░░░  73.39%
+Python         3 hr 10 mins    ██████░░░░░░░░░░░░░░░░  16.92%
+Jupyter        16 mins         ██░░░░░░░░░░░░░░░░░░░░  6.75%
+Text           3 mins          ░░░░░░░░░░░░░░░░░░░░░░  1.01%
+GitIgnore      1 mins          ░░░░░░░░░░░░░░░░░░░░░░  0.79%
+
+🚀 IDE: 
+VS Code        10 hrs 5 mins   ██████████████████████  99.28%
+Others         3 mins          ░░░░░░░░░░░░░░░░░░░░░░  0.72%
+```
