@@ -14,16 +14,13 @@
 
 ⌛ **Weekly Development Breakdown** 
 <!--START_SECTION:waka-->
-💾 Programming: 
 ```text
+💾 Programming: 
 Python       4 hrs 18 mins   ██████████████████▒░░░░░░   73.15 %
 Markdown     28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 Other        24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 ```
-
 <!--END_SECTION:waka-->
-```text
-🚀 IDE: 
-VS Code        10 hrs 5 mins   ██████████████████████  99.28%
-Others         3 mins          ░░░░░░░░░░░░░░░░░░░░░░  0.72%
-```
+
+***"It was a night so beautiful that your soul seemed hardly able to bear the prison of the body."🌙***
+
