@@ -23,5 +23,5 @@ Other        24 mins         █▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-***"It was a night so beautiful that your soul seemed hardly able to bear the prison of the body."🌙***
+***"It was a night so beautiful that your soul seemed hardly able to bear the prison of the body."🌙🌙***
 
