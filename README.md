@@ -9,12 +9,5 @@
 - 🔑 GPG Key : [`E1FB968577635BDF`](https://github.com/zchoi.gpg)
 - 🙋‍♂️ CV : [`Link`]()
 ---
-
-[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchoi&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93&hide=jupyter_notebook">](https://github.com/anuraghazra/github-readme-stats)
-
-
-⌛ **Weekly Development Breakdown** 
-![Metrics](https://metrics.lecoq.io/zchoi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
-
-
-***"It was a night so beautiful that your soul seemed hardly able to bear the prison of the body."🌙🌙***
+<img align="left" width="45%" src="https://metrics.lecoq.io/zchoi?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai">
+<img align="right" width="50%" src="https://metrics.lecoq.io/zchoi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai">
