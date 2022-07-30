@@ -10,8 +10,6 @@
 - 🙋‍♂️ CV : [`Link`]()
 ---
 
-
-
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zchoi&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93&hide=jupyter_notebook">](https://github.com/anuraghazra/github-readme-stats)
 
 
