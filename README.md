@@ -12,6 +12,6 @@
 
 [<img align="left"  src="repo-info.svg">](#)
 
-[<img align="right" width="45%" src="language.svg">](#)
+[<img align="right" width="48%" height= "350"  src="language.svg">](#)
 
 [<img align="left" width="45%" src="comment_reaction.svg">](#)
