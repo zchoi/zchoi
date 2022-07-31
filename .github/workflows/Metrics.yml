@@ -30,6 +30,10 @@ jobs:
           filename: language.svg
           token: ${{ secrets.METRICS_TOKEN }}
           
+          user: zchoi
+          template: classic
+          base: ""
+          config_timezone: Asia/Chengdu
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
