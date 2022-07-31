@@ -9,5 +9,6 @@
 - 🔑 GPG Key : [`E1FB968577635BDF`](https://github.com/zchoi.gpg)
 - 🙋‍♂️ CV : [`Link`]()
 ---
-<img align="left" width="45%" src="https://metrics.lecoq.io/zchoi?template=classic&base.repositories=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
-<img align="right" width="50%" src="https://metrics.lecoq.io/zchoi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai">
+
+[<img align="left" alt="🦑" src="repo-info.svg">](#)
+[<img align="right" alt="🦑" src="language.svg">](#)
