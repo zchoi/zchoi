@@ -10,7 +10,7 @@
 - 🙋‍♂️ CV : [`Link`]()
 ---
 
-[<img align="left"  src="repo-info.svg">](#)
+[<img align="left" width="45%" src="repo-info.svg">](#)
 
 [<img align="right" width="48%" src="language.svg">](#)
 
