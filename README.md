@@ -9,9 +9,6 @@
 - 🔑 GPG Key : [`E1FB968577635BDF`](https://github.com/zchoi.gpg)
 - 🙋‍♂️ CV : [`Link`]()
 ---
-
 [<img align="left" width="46%" src="repo-info.svg">](#)
-
 [<img align="right" width="48%" src="language.svg">](#)
-
 [<img align="left" width="45%" src="comment_reaction.svg">](#)
