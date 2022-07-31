@@ -46,3 +46,20 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+
+      - name: Comment
+        uses: lowlighter/metrics@latest
+        with:
+          filename: comment_reaction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          user: zchoi
+          template: classic
+          base: ""
+          config_timezone: Asia/Chengdu
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
