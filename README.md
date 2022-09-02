@@ -1,4 +1,4 @@
-## Hello, world ! 👋
+## Hello, World ! 👋
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zchoi&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93">](https://github.com/zchoi/github-readme-stats)
 
