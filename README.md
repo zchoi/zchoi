@@ -7,7 +7,7 @@
 - 🌱 Attending courses & doing research at UESTC
 - 🔑 GPG Key : [`E1FB968577635BDF`](https://github.com/zchoi.gpg)
 - 🙋‍♂️ CV : [`Link`](https://drive.google.com/file/d/1iJTcQ7iIBI38nwUMtZYA4Lee0Kp_I7cU/view?usp=share_link) (Last updated: 2023.01)
-[<img align="right" width="40%" src="comment_reaction.svg">](#)
+[<img align="right" width="42%" src="comment_reaction.svg">](#)
 ***
 $\mathcal{Life\ isn't\ long\ enough\ for\ love\ and\ art. \ ——《The\ Moon\ and\ Sixpence》}$
 
