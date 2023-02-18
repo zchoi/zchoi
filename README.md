@@ -1,6 +1,6 @@
 ## Hello, World ! 👋
 
-[<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=zchoi&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93">](https://github.com/zchoi/github-readme-stats)
+[<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=zchoi&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93">](https://github.com/zchoi/github-readme-stats)
 👻 I'm Zhang Haonan, a Ph.D. student of Center for Future Media at UESTC. 
 - 🦾 Python / C++ / Jupyter / Pytorch
 - 🤔 Vision&Language / Multimodal Learning
