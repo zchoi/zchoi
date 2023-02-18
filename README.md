@@ -11,7 +11,7 @@
 ***
 
 <p style="text-align:left">
-  $\mathcal{Life\ isn't\ long\ enough\ for\ love\ and\ art. \ ——《The\ Moon\ and\ Sixpence》}$
+  $\mathcal{Life\ isn't\ long\ enough\ for\ love\ and\ art. \ ——《}$
 </p>
 <!-- [<img align="left" width="46%" src="repo-info.svg">](#) -->
 <!-- [<img align="right" width="48%" src="language.svg">](#) -->
