@@ -10,7 +10,7 @@
 - 🙋‍♂️ CV : [`Link`](https://drive.google.com/file/d/1iJTcQ7iIBI38nwUMtZYA4Lee0Kp_I7cU/view?usp=share_link) (Last updated: 2023.01)
 [<img align="right" width="45%" src="comment_reaction.svg">](#)
 ***
-$${\mathcal{Life\ isn't\ long\ enough\ for\ love\ and\ art. \ ——《The\ Moon\ and\ Sixpence》}}$$
+<p align="left">$${\mathcal{Life\ isn't\ long\ enough\ for\ love\ and\ art. \ ——《The\ Moon\ and\ Sixpence》}}$$</p>
 
 <!-- [<img align="left" width="46%" src="repo-info.svg">](#) -->
 <!-- [<img align="right" width="48%" src="language.svg">](#) -->
