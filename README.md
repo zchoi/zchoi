@@ -1,4 +1,4 @@
-## Hello, World ! 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/zchoi) 
+## Hello, World ! 👋 ![zchoi](https://visitor-badge.glitch.me/badge?page_id=https://github.com/zchoi) 
 
 [<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=zchoi&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93">](https://github.com/zchoi/github-readme-stats)
 👻 I'm Zhang Haonan, a Ph.D. student of Center for Future Media at UESTC. 
