@@ -1,6 +1,8 @@
 ## Hello, World ! 👋 ![zchoi](https://komarev.com/ghpvc/?username=zchoi&style=for-the-badge)
-
-[<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=zchoi&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_icons=true&bg_color=DEG,e66446,924f93">](https://github.com/zchoi/github-readme-stats)
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=zchoi" style="width: 40%;  alt="zchoi's GitHub stats">
+</p>
+                                                                                                      
 👻 I'm Haonan, a Ph.D. student of Center for Future Media at UESTC. 
 - 🦾 Python / C++ / Jupyter / Pytorch
 - 🤔 Vision&Language / Multimodal Learning
