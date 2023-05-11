@@ -1,7 +1,5 @@
-## Hello, World ! 👋 ![zchoi](https://komarev.com/ghpvc/?username=zchoi&style=for-the-badge)
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=zchoi" style="width: 40%;  alt="zchoi's GitHub stats">
-</p>
+## Hello, World ! 👋 ![zchoi](https://komarev.com/ghpvc/?username=zchoi&style=for-the-badge)                                                         
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=zchoi">](#)
                                                                                                       
 👻 I'm Haonan, a Ph.D. student of Center for Future Media at UESTC. 
 - 🦾 Python / C++ / Jupyter / Pytorch
@@ -11,6 +9,7 @@
 - 🙋‍♂️ CV : [`Link`](https://1drv.ms/b/s!Am8OAR5-SGck_FNttNKPfBXO-IVf?e=qBNeOr) (Last updated: 2023.03)
 [<img align="right" width="42%" src="comment_reaction.svg">](#)
 ***
+
 $\mathcal{Life\ isn't\ long\ enough\ for\ love\ and\ art. \ ——《The\ Moon\ and\ Sixpence》}$
 
 <!-- [<img align="left" width="46%" src="repo-info.svg">](#) -->
