@@ -6,7 +6,7 @@
 - 🤔 Vision&Language / Multimodal Learning
 - 🌱 Attending courses & doing research at UESTC
 - 🔑 GPG Key : [`E1FB968577635BDF`](https://github.com/zchoi.gpg)
-- 🙋‍♂️ CV : [`Link`](https://1drv.ms/b/s!Am8OAR5-SGckhdF6PrULu45A_zBNdg?e=j66yvr) (Last updated: 2023.06)
+- 🙋‍♂️ CV : [`Link`](https://1drv.ms/b/s!Am8OAR5-SGckiJE2xy8YCvk1FmmQ5w?e=6jczxk) (Last updated: 2023.06)
 [<img align="right" width="42%" src="comment_reaction.svg">](#)
 ***
 
