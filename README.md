@@ -3,7 +3,7 @@
                                                                                                       
 👻 I'm Haonan, a Ph.D. student of Center for Future Media at UESTC. 
 - 🦾 Python / C++ / Jupyter / Pytorch
-- 🤔 Vision&Language / Multimodal Learning
+- 🤔 LLM-based Agents / Vision&Language / Multimodal Learning
 - 🌱 Attending courses & doing research at UESTC
 - 🔑 GPG Key : [`E1FB968577635BDF`](https://github.com/zchoi.gpg)
 - 🙋‍♂️ CV : [`Link`](https://1drv.ms/b/s!Am8OAR5-SGckiKYSzhCDC_A08TTsBQ?e=zyfmm9) (Last updated: 2023.11)
