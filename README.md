@@ -5,11 +5,11 @@
 - 🦾 Python / C++ / Jupyter / Pytorch
 - 🤔 LLM-based Agents / Vision&Language / Multimodal Learning
 - 🌱 Attending courses & doing research at UESTC
-- 🔑 GPG Key : [`E1FB968577635BDF`](https://github.com/zchoi.gpg)
+- 🍙 Homepage: [Link](https://zchoi.github.io/)
 - 🙋‍♂️ CV : [`Link`](https://1drv.ms/b/s!Am8OAR5-SGckiKY77zoaulrMuaNgMw?e=ISbque) (Last updated: 2023.12)
 [<img align="right" width="42%" src="comment_reaction.svg">](#)
 ***
-
+<!--- 🔑 GPG Key : [`E1FB968577635BDF`](https://github.com/zchoi.gpg) -->
 $\mathcal{Life\ isn't\ long\ enough\ for\ love\ and\ art. \ ——《The\ Moon\ and\ Sixpence》}$
 
 <!-- [<img align="left" width="46%" src="repo-info.svg">](#) -->
