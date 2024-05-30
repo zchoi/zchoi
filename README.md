@@ -5,7 +5,7 @@
 - 🦾 Python / C++ / Jupyter / Pytorch
 - 🤔 LLM-based Agents / Vision&Language / Multimodal Learning
 - 🌱 Attending courses & doing research at UESTC
-- 🍙 Homepage: [`Link'](https://zchoi.github.io/)
+- 🍙 Homepage: [`Link`](https://zchoi.github.io/)
 - 🙋‍♂️ CV : [`Link`](https://1drv.ms/b/s!Am8OAR5-SGckiKp8IugY5nApdQJ2aQ?e=KUJNXf) (Last updated: 2024.2)
 [<img align="right" width="42%" src="comment_reaction.svg">](#)
 ***
