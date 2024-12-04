@@ -21,13 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="268.4996577927875" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="268.4996577927875" y="0" width="187.3782684701617" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="455.8779262629492" y="0" width="3.207334388256169" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.0852606512053" y="0" width="0.4961651012379896" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="459.58142575244335" y="0" width="0.29765568966751077" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.8790814421109" y="0" width="0.0659240344302224" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="459.9450054765411" y="0" width="0.05499452345889606" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="265.04149645605787" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="265.04149645605787" y="0" width="184.96491610802593" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="450.0064125640838" y="0" width="5.8002340167072886" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="455.8066465807911" y="0" width="3.166025286164162" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.9726718669552" y="0" width="0.4897747058689946" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="459.4624465728242" y="0" width="0.29382201104710753" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.75626858387136" y="0" width="0.17865645520903098" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.9349250390804" y="0" width="0.06507496091965662" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -41,6 +42,12 @@
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -62,15 +69,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Batchfile
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#C1F12E" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Makefile
+                        Batchfile
                     </div>
                 </div>
             </section>
