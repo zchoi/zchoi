@@ -6,7 +6,7 @@
 - 🤔 LLM-based Agents / Vision&Language / Multimodal Learning
 - 🌱 Attending courses & doing research at UESTC
 - 🍙 Homepage: [`Link`](https://zchoi.github.io/)
-- 🙋‍♂️ CV : [`Link`](https://zchoi.github.io/assets/cv_haonanzhang.pdf) (Last updated: 2025.7)
+- 🙋‍♂️ CV : [`Link`](https://zchoi.github.io/assets/cv_haonanzhang_0611.pdf) (Last updated: 2025.7)
 [<img align="right" width="42%" src="comment_reaction.svg">](#)
 ***
 <!--- 🔑 GPG Key : [`E1FB968577635BDF`](https://github.com/zchoi.gpg) -->
