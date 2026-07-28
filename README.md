@@ -1,7 +1,7 @@
 ## Hello, World ! 👋 ![zchoi](https://komarev.com/ghpvc/?username=zchoi&style=for-the-badge)                                                         
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=zchoi">](#)
                                                                                                       
-👻 I'm Haonan, currently conducting research on Qwen Character.
+👻 I'm Haonan, currently conducting research on Qwen Character at Alibaba Tongyi Lab.
 - 🦾 Python / C++ / Jupyter / Pytorch
 - 🤔 LLM-based Agents / Vision&Language / Multimodal Learning
 - 🌱 Attending courses & doing research at UESTC
